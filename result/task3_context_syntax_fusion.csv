@@ -1,0 +1,9 @@
+model,epoch,loss,accuracy,macro_f1
+Context-Syntax-Fusion,1,0.9711,0.5705,0.4178
+Context-Syntax-Fusion,2,0.7084,0.5940,0.5112
+Context-Syntax-Fusion,3,0.5091,0.6426,0.5602
+Context-Syntax-Fusion,4,0.3911,0.6567,0.5667
+Context-Syntax-Fusion,5,0.3069,0.6552,0.5904
+Context-Syntax-Fusion,6,0.2789,0.6536,0.5885
+Context-Syntax-Fusion,7,0.2515,0.6724,0.5867
+Context-Syntax-Fusion,8,0.2368,0.6552,0.5925

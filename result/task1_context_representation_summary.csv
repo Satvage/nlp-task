@@ -1,0 +1,3 @@
+model,epoch,loss,accuracy,macro_f1
+GloVe-Aspect-Attention,3,0.4528,0.6583,0.6067
+BERT-Attention,2,0.5190,0.8009,0.7662

@@ -1,0 +1,13 @@
+model,epoch,loss,accuracy,macro_f1
+GloVe-Aspect-Attention,1,1.0390,0.5893,0.5270
+GloVe-Aspect-Attention,2,0.7203,0.6191,0.5659
+GloVe-Aspect-Attention,3,0.4528,0.6583,0.6067
+GloVe-Aspect-Attention,4,0.2816,0.6332,0.5687
+GloVe-Aspect-Attention,5,0.1933,0.6082,0.5557
+GloVe-Aspect-Attention,6,0.1534,0.6301,0.5714
+GloVe-Aspect-Attention,7,0.1179,0.6160,0.5546
+GloVe-Aspect-Attention,8,0.1101,0.6207,0.5412
+BERT-Attention,1,0.7878,0.7445,0.7006
+BERT-Attention,2,0.5190,0.8009,0.7662
+BERT-Attention,3,0.3378,0.7508,0.6928
+BERT-Attention,4,0.2198,0.7727,0.7146
